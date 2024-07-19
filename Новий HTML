@@ -14,7 +14,7 @@
                 <a class='menu-elements' href='Фото галерея HTML.html'>Галерея</a>
                 <a class='menu-elements' href='Послуги HTML.html'>Послуги</a>
                 <a class='menu-elements' href='https://docs.google.com/forms/d/e/1FAIpQLSdKEh4mEVIzI4btlOWBn2yyAZfsDjftUSZpqD9kp7TCkzHCgw/viewform'>Замовити</a>
-                <a class='menu-elements' href='#'>Контакти</a>
+                <a class='menu-elements' href='Підтримка HTML.htm'>Контакти</a>
             </div>
     </header>
     <main>
@@ -35,15 +35,15 @@
             <h1 class="bob3">Про наші послуги</h1>
             <div class="lotr">
             <button class="hotd">
-                <h1 class="bob2">Європа</h1>
+                <h1 class="bob2" onclick="location.href='Європа HTML.html'">Європа</h1>
                 <p class="gru1">Тури по чудовим країнам Європи</p>
             </button>
             <button class="hotd">
-                <h1 class="bob2">Україна</h1>
+                <h1 class="bob2" onclick="location.href='Україна HTML.html'">Україна</h1>
                 <p class="gru1">Тури по історичній спадщині України</p>
             </button>
             <button class="hotd">
-                <h1 class="bob2">США</h1>
+                <h1 class="bob2" onclick="location.href='США HTML.html'">США</h1>
                 <p class="gru1">Тури по незабутніх країнах заходу</p>
             </button>
             </div>
