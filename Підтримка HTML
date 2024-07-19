@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Літній табір "Adventures"</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+            <img class='logo'
+                src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/adventure-awaits-green-watercolor-motivational-text-art-tina-lavoie.jpg'
+                alt='Тут має бути картинка'>
+            <div class="menu">
+                <a class='menu-elements' href='#'>Головна</a>
+                <a class='menu-elements' href='#'>Галерея</a>
+                <a class='menu-elements' href='#'>Послуги</a>
+                <a class='menu-elements' href='#'>Замовити</a>
+                <a class='menu-elements' href='#'>Контакти</a>
+            </div>
+    </header>
+    <div class="lol">
+        <h1 class="bob">Контакти</h1>
+        <p class="kevin">095-345-54-56</p>
+          <p class="kevin"> 050-321-78-90 </p>
+          <p class="kevin"> 096-788-11-21 </p>
+          <p class="kevin">За цими номерами ви можете подзвонити та попросити про допомогу з вирішення будь-яких проблем, пов'язаних з сайтом, реєстрацією або оплатою.</p>
+    
+    <footer>
+        <img src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/adventure-awaits-green-watercolor-motivational-text-art-tina-lavoie.jpg' alt='Тут має бути картинка'>
+        <div class="inform">
+        <ul>
+            <li><a href=''>Галeрея</a></li>
+            <li><a href=''>Послуги</a></li>
+            <li><a href=''>Реєстрація</a></li>
+        </ul>
+    <ul>
+                <li><a href=''>Підтримка</a></li>
+                <li><a href=''>Контакти</a></li>
+                <li><a href=''>Про табір</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
