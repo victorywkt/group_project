@@ -54,12 +54,12 @@
         <img src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/adventure-awaits-green-watercolor-motivational-text-art-tina-lavoie.jpg' alt='Тут має бути картинка'>
         <div class="inform">
         <ul>
-            <li><a href=''>Галeрея</a></li>
-            <li><a href=''>Послуги</a></li>
-            <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSdKEh4mEVIzI4btlOWBn2yyAZfsDjftUSZpqD9kp7TCkzHCgw/viewform'>Реєстрація</a></li>
-        </ul>
-    <ul>
-                <li><a href=''>Підтримка</a></li>
+                    <li><a href='Фото галерея HTML.html'>Галeрея</a></li>
+                    <li><a href='Послуги HTML.html'>Послуги</a></li>
+                    <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSdKEh4mEVIzI4btlOWBn2yyAZfsDjftUSZpqD9kp7TCkzHCgw/viewform'>Реєстрація</a></li>
+                </ul>
+            <ul>
+                        <li><a href='Підтримка HTML.html'>Підтримка</a></li>
                 <li><a href=''>Контакти</a></li>
                 <li><a href=''>Про табір</a></li>
             </ul>
