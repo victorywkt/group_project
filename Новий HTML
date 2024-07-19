@@ -21,7 +21,7 @@
         <div class="container">
             <div class="lol">
                 <h1 class="bob">Літній табір "Adventures"</h1>
-                <button class="bth-buy-ticket">Замовити квитки</button>
+                <button onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSdKEh4mEVIzI4btlOWBn2yyAZfsDjftUSZpqD9kp7TCkzHCgw/viewform'" class="bth-buy-ticket">Замовити квитки</button>
             </div>
         </div>
         </main>
